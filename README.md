@@ -1,37 +1,30 @@
-# {Application Name}
+# Address Book
 
-#### By {List of contributors}
+#### By Justin Lee, Kaleb Taylor  
 
-#### {Brief description of application}
+#### Javascript Address book that makes new contacts and can add them to a data structure
 
 ## Technologies Used
 
-* List all
-* the major technologies
-* you used in your project
-* here
+* Javascript
 
 ## Description
 
-{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}
+Javscript file that shows an example of what an address book looks like. This shows understanding of having key values point to other values in an array. Furthermore shows how data can be stored inside other functions.
 
 ## Setup/Installation Requirements
 
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}
+* Download repository to your computer through gitbash or downloading respoitory through github website.
+* To look at Javscript code, use any source-code editor such as VSCode.
+* To test funcationality open HTML page and right click to go into console log. Reference the javascript functions in order to manipulate and add/remove/look up data in your addressbook.
+* The address book is empty by default, so add contacts manually beforehand.
 
 ## Known Bugs
 
-* Any known issues
-* should go here
+* N/a
 
 ## License
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+MIT
 
-Copyright (c) date author name(s)
+Copyright (c) Justin Lee, Kaleb Taylor.
